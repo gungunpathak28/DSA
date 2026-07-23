@@ -15,7 +15,6 @@ public class DeletionMulti {
 
         System.out.print("Enter element you want to delete: ");
         int element = sc.nextInt();
-
         int newSize = a.length;
         boolean found = false;
 
