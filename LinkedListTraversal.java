@@ -18,7 +18,6 @@ class LinkedListTraversal {
         }
         System.out.println("null");
     }
-
     public static void main(String[] args) {
         LinkedListTraversal list = new LinkedListTraversal();
         list.head = new Node(10);
