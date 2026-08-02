@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class queueEnqueueDequeue {
 
 	public static void main(String[] args) {
