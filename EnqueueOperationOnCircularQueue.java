@@ -5,7 +5,6 @@ public class EnqueueOperationOnCircularQueue {
     static boolean isFull() {
         return (front == 0 && rear == size - 1) || (rear + 1) % size == front;
     }
-
     static boolean isEmpty() {
         return front == -1;
     }
