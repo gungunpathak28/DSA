@@ -11,7 +11,6 @@ class LinkedListTraversal {
     Node head;
     void traverse() {
         Node temp = head;
-
         while (temp != null) {
             System.out.print(temp.data + " -> ");
             temp = temp.next;
