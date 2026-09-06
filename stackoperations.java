@@ -5,8 +5,6 @@ public class stackoperations {
 		int st[]=new int[5];
 		int top=-1;
 		int size=st.length-1;
-		
-		//Enter elements in stack
 		for(int i=0;i<4 ; i++) {
 		System.out.println("\n Enter number you want to insert");
 		int num=sc.nextInt();
