@@ -99,8 +99,6 @@ public class stackoperations {
 		for(int i=top1-1;i>=0;i--)
 			System.out.print("\n "+fab[i]);
 		System.out.println("\n ---------------------------");
-		
-		
+			
 	}
-
 }
