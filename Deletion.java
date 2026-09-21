@@ -16,6 +16,5 @@ public class Deletion {
 	            System.out.print("\n"+a[i]);
 	        }
 	    }
-
 	}
 
