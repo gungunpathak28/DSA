@@ -30,5 +30,4 @@ public class sumOfUpperAndLowerDiagonal {
 		}
 		System.out.print("\n Sum of lower diagonals : "+sum1);
 	}
-
 }
