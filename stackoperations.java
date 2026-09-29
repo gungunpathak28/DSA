@@ -27,7 +27,6 @@ public class stackoperations {
 		for(int i=top;i>=0;i--)
 			System.out.print("\n "+st[i]);
 		System.out.println("\n ---------------------------");
-		
 		//Max Min
 		int min=st[top];
 		int max=st[top];
